@@ -29,20 +29,15 @@ Behaviour Generation Module:
 
 ## Key Contributions
 
-* Unified affective control architecture
-A single emotion model modulates both decision making and behaviour generation, ensuring consistency and interpretability.
+* Unified affective control architecture: A single emotion model modulates both decision making and behaviour generation, ensuring consistency and interpretability.
 
-* Biomimetic emotion dynamics
-Emotion fluctuations are grounded in physiological principles (dopamine, serotonin, noradrenaline) rather than ad-hoc heuristics.
+* Biomimetic emotion dynamics: Emotion fluctuations are grounded in physiological principles (dopamine, serotonin, noradrenaline) rather than ad-hoc heuristics.
 
-* Emotion-intervened decision making
-Emotions alter incentive salience, action values, and uncertainty handling in an MDP framework.
+* Emotion-intervened decision making: Emotions alter incentive salience, action values, and uncertainty handling in an MDP framework.
 
-* Continuous affective behaviour generation
-Robot motions (posture, velocity, amplitude, frequency, and trajectory) change smoothly with emotional state.
+* Continuous affective behaviour generation: Robot motions (posture, velocity, amplitude, frequency, and trajectory) change smoothly with emotional state.
 
-* Human-centred interpretability
-User studies show that affective modulation improves perceived emotional clarity and intention understanding.
+* Human-centred interpretability: User studies show that affective modulation improves perceived emotional clarity and intention understanding.
 
 ## Intended Use
 
