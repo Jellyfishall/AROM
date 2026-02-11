@@ -54,7 +54,7 @@ This work is intended for:
 ## Reference
 
 If you use this work, please cite:
-Zhang, J., Herrmann, J.M. A Robotic Mind Model for Affective Decision Making and Behaviour Generation. Int J of Soc Robotics 18, 23 (2026). https://doi-org.manchester.idm.oclc.org/10.1007/s12369-025-01345-z
+Zhang, J., Herrmann, J.M. A Robotic Mind Model for Affective Decision Making and Behaviour Generation. Int J of Soc Robotics 18, 23 (2026). https://doi.org/10.1007/s12369-025-01345-z
 
 
 https://github.com/user-attachments/assets/044840b4-36a2-49ef-966a-c9ddc2869baa
